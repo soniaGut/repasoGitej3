@@ -1,7 +1,6 @@
-  GNU nano 9.2                                 .gitignore
 *.env
-/node_modules
-/logs
+node_modules/
+logs/
 
 
 
