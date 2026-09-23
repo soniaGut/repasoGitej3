@@ -17,5 +17,5 @@ git init
 git add .
 git commit -m "Publicar aplicación"
 git branch -M main
-git remote add origin https://github.com/USUARIO/REPOSITORIO.git
+git remote add origin https://github.com/soniaGut/repasoGitej3.git
 git push -u origin main
