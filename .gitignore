@@ -1,3 +1,4 @@
+
 # Archivos de variables de entorno
 *.env
 
@@ -6,3 +7,7 @@ node_modules/
 
 # Logs
 logs/
+*.env
+node_modules/
+logs/
+git status
