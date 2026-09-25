@@ -1,13 +1,13 @@
+
+# Archivos de variables de entorno
+*.env
+
+# Dependencias de Node.js
+node_modules/
+
+# Logs
+logs/
 *.env
 node_modules/
 logs/
 git status
-
-
-
-
-
-
-
-
-
